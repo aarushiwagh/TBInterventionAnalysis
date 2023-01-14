@@ -24,7 +24,7 @@ scipy
 seaborn
 six
 sniffio
-starlette
+starlette==0.22.0
 statsmodels
 tenacity
 typing_extensions
